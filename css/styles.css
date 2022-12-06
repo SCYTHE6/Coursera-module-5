@@ -60,14 +60,14 @@ body {
   font-size: 1.8em;
 }
 
-#phone {
+#mobile {
   margin-top: 5px;
 }
-#phone a { /* Phone number */
+#mobile a { /* Phone number */
   text-align: right;
   padding-bottom: 0;
 }
-#phone div { /* We Deliver */
+#mobile div { /* We Deliver */
   color: #557c3e;
   text-align: right;
   padding-right: 15px;
